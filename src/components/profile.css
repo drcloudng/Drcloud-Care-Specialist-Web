@@ -1,0 +1,151 @@
+body{
+    font-family: sans-serif;
+}
+.logo{
+    width: 200px;
+    height: 50px;
+    padding:15px 30px 0 40px;
+}
+li .active{
+    background-color: red;
+}
+li{
+    list-style: none;
+}
+nav{
+    background-color: white;
+}
+.nav-img{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    align-content: center;
+    margin: 0 0 20px 0;
+    object-fit: cover;
+}
+nav a{
+    color: black;
+}
+.nav-iteem{
+    padding-right: 3px;
+    
+}
+.nav-item{
+    padding:20px 30px 0 0; 
+    list-style: none;
+}
+a.active{
+    list-style: none;
+}
+#ib{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    align-content: center;
+    margin: 0 0 20px 0;
+    object-fit: cover;
+}
+.not{
+    padding: 0 0 0 120px;
+    font-weight: bold;
+}
+ul{
+    margin:0;
+    padding:0;
+    list-style:none;
+    font-size: 12px;
+}
+.pro{
+    float: 70px;
+}
+
+.col-md-6 a{
+    color: black;
+    padding-bottom: 40px;
+}
+.col-md-6{
+    padding: 25px 0 30px 0;
+}
+.pro{
+    box-shadow: 2px 2px 2px 2px rgba(192, 192, 180, 0.5);
+    padding: 10px 27px;
+    background-color: white;
+    height: 570px;
+    
+}
+.pro img{
+    width: 110px; 
+    height:110px; 
+    border: 10px whitesmoke;
+    border-radius:50%; 
+    padding: 0px;
+    margin-top: -39px;
+    box-shadow: 3px 3px 3px 3px rgba(208,208,208, 0.8) white;
+}
+.pro ul{
+    display: inline-block;
+    padding: 40px 10px 20px 20px;
+
+}
+.pro ul .Akande{
+    font-weight: 10;
+    font-size: 15px
+}
+.about{
+    padding: 20px 0 0 0;
+}
+.car{
+    color: red;
+}
+.lagos{
+    border-radius: 50px;
+    border: 1px groove #B8B8B8;
+}
+.edu{
+    padding: 30px 0 0 0;
+}
+.col-md-12{
+    padding: 48px 0 10px 0
+}
+.edu ul{
+    padding-top: 10px;
+}
+.spec{
+    box-shadow: 2px 2px 10px rgba(192, 192, 180, 0.384),
+    -2px -2px 10px rgba(192, 192, 180, 0.384);
+    padding:20px 27px 10px;
+    background-color: white;
+    width: 230px;
+}
+.work{
+    box-shadow: 2px 2px 10px rgba(192, 192, 180, 0.384),
+    -2px -2px 10px rgba(192, 192, 180, 0.384);
+    padding:30px 27px;
+    background-color: white;
+    width: 230px;
+}
+.art{
+    font-size: 11px;
+}
+.clin{
+    margin:10px 0 10px;
+    padding: 0px;
+}
+.clin .clin-detail{ 
+    display:inline-block; 
+    margin:0 2px;
+    margin-bottom: 5px;
+    border: 1px groove #B8B8B8;
+    border-radius: 15px;
+    font-weight: 2px;
+    padding: 5px;
+    font-size: 11px;
+}
+.resident{
+    font-size: 15px;
+    font-weight: 3px;
+}
+.group{
+    font-weight: bold;
+    font-size: 13px;
+}

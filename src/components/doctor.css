@@ -1,0 +1,144 @@
+.logo{
+    width: 200px;
+    height: 50px;
+    padding:15px 30px 0 40px;
+}
+li .active{
+    background-color: red;
+}
+li{
+    list-style: none;
+}
+.pro{
+    float: 70px;
+}
+nav{
+    background-color: white;
+}
+nav a{
+    color: black;
+}
+.nav-iteem{
+    padding-right: 3px;
+    
+}
+.nav-link{
+    padding:20px 30px 0 0; 
+    list-style: none;
+}
+a.active{
+    list-style: none;
+}
+#ib{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    align-content: center;
+    margin: 0 0 20px 0;
+}
+.not{
+    padding: 0 0 0 120px;
+    font-weight: bold;
+}
+.btn{
+    border:2px border-style red;
+    border-radius: 7px;
+    font-size: 5px;
+}
+.add{
+    float: right;
+}
+.col-md-3{
+    background-color: white;
+    
+}
+.but{
+    float: right 15px;
+    font-size: 10px;
+    border-radius: 15%;
+    color: red;
+    border-color: red ;
+    border-style: solid;
+    border-width: 1px; 
+    font-weight: bold;
+    margin-top: 10px;
+    padding: 5px;
+}
+ul{
+  margin:0;
+  padding:0;
+  list-style:none;
+  font-size: 12px;
+}
+.heading.heading-icon {
+    display: block;
+}
+.row.heading h2 {
+    color: #fff;
+    font-size: 52.52px;
+    line-height: 95px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0 0 40px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+}
+.cnt-block{
+    box-shadow: 2px 2px 2px 2px rgba(192, 192, 180, 0.5);
+    text-align: center;
+    padding: 27px;
+    background-color: white;
+    
+}
+.cnt-block img{ 
+   width: 88px; 
+   height:88px; 
+   border: 10px whitesmoke;
+   border-radius:50%; 
+   margin-top: 15px;
+   box-shadow: 3px 3px 3px 3px rgba(208,208,208, 0.8) white;
+   
+}
+.cnt-block h3{ 
+   color:#2a2a2a; 
+   font-size:20px; 
+   font-weight:500; 
+   padding:6px 0 0;
+   
+}
+.cnt-block h3{
+  text-decoration:none;
+	color:#2a2a2a;
+}
+.cnt-block p{ 
+   font-size:13px; 
+   line-height:20px; 
+   font-weight:400;
+}
+.cnt-block .follow{
+    margin:20px 0 10px;
+}
+.cnt-block .follow li{ 
+    display:inline-block; 
+	margin:0 5px;
+    border: 1px groove #B8B8B8;
+    border-radius: 25px;
+    font-weight: 10px;
+}
+.doc {
+    margin-top:40px;bm
+}
+.bla{
+    color: black;
+}
+p{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.col-md-12{
+    padding-top: 13px;
+}
+.col-md-9{
+    pad
+}
